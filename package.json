@@ -1,0 +1,29 @@
+{
+  "name": "auto-download-facebook-emoji",
+  "version": "1.0.0",
+  "description": "Auto download Facebook Emoji",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/congnv86/auto-download-facebook-emoji.git"
+  },
+  "keywords": [
+    "facebook",
+    "emoji"
+  ],
+  "author": "Cong Nguyen (https://www.facebook.com/congnguyen020/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/congnv86/auto-download-facebook-emoji/issues"
+  },
+  "homepage": "https://github.com/congnv86/auto-download-facebook-emoji#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "fs-extra": "^9.0.1",
+    "recursive-readdir": "^2.2.2",
+    "request": "^2.88.2"
+  }
+}
